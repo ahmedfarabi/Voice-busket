@@ -1,0 +1,4 @@
+F:\[461try]\VoiceBasket\VoiceBasket\bin\Release\VoiceBasket.exe.config
+F:\[461try]\VoiceBasket\VoiceBasket\obj\Release\VoiceBasket.Form1.resources
+F:\[461try]\VoiceBasket\VoiceBasket\obj\Release\VoiceBasket.Properties.Resources.resources
+F:\[461try]\VoiceBasket\VoiceBasket\obj\Release\VoiceBasket.csproj.GenerateResource.Cache

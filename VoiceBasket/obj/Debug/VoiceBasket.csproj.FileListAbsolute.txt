@@ -1,0 +1,15 @@
+F:\[461try]\VoiceBasket\VoiceBasket\bin\Debug\VoiceBasket.exe.config
+F:\[461try]\[vb]\VoiceBasket\VoiceBasket\VoiceBasket\bin\Debug\VoiceBasket.exe.config
+F:\[461try]\[vb]\VoiceBasket\VoiceBasket\VoiceBasket\obj\Debug\VoiceBasket.csprojResolveAssemblyReference.cache
+F:\[461try]\[vb]\VoiceBasket\VoiceBasket\VoiceBasket\obj\Debug\VoiceBasket.Form1.resources
+F:\[461try]\[vb]\VoiceBasket\VoiceBasket\VoiceBasket\obj\Debug\VoiceBasket.Properties.Resources.resources
+F:\[461try]\[vb]\VoiceBasket\VoiceBasket\VoiceBasket\obj\Debug\VoiceBasket.csproj.GenerateResource.Cache
+F:\[461try]\[vb]\VoiceBasket\VoiceBasket\VoiceBasket\bin\Debug\VoiceBasket.exe.manifest
+F:\[461try]\[vb]\VoiceBasket\VoiceBasket\VoiceBasket\bin\Debug\VoiceBasket.application
+F:\[461try]\[vb]\VoiceBasket\VoiceBasket\VoiceBasket\bin\Debug\VoiceBasket.exe
+F:\[461try]\[vb]\VoiceBasket\VoiceBasket\VoiceBasket\bin\Debug\VoiceBasket.pdb
+F:\[461try]\[vb]\VoiceBasket\VoiceBasket\VoiceBasket\obj\Debug\VoiceBasket.TrustInfo.xml
+F:\[461try]\[vb]\VoiceBasket\VoiceBasket\VoiceBasket\obj\Debug\VoiceBasket.exe.manifest
+F:\[461try]\[vb]\VoiceBasket\VoiceBasket\VoiceBasket\obj\Debug\VoiceBasket.application
+F:\[461try]\[vb]\VoiceBasket\VoiceBasket\VoiceBasket\obj\Debug\VoiceBasket.exe
+F:\[461try]\[vb]\VoiceBasket\VoiceBasket\VoiceBasket\obj\Debug\VoiceBasket.pdb
